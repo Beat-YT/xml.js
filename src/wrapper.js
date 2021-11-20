@@ -1,5 +1,4 @@
-var xmllint = {}
-;
+var xmllint = {};
 
 xmllint.validateXML = function (options) {
 	var Module = {
