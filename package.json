@@ -1,7 +1,7 @@
 {
   "name": "xmllint",
   "version": "0.1.1",
-  "description": "Online demo at http://syssgx.github.com/xml.js/",
+  "description": "xmllint but for node.js",
   "main": "xmllint.js",
   "directories": {
     "test": "test"
@@ -9,24 +9,20 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "~3.8.10",
-    "brfs": "~1.3.0",
-    "browserify": "~8.1.3",
-    "browserify-shim": "~3.8.2"
-  },
-  "browserify-shim": {
-    "xmllint": "global:xmllint"
+    "brfs": "~1.3.0"
   },
   "scripts": {
     "test": "node --unhandled-rejections=strict ./test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kripken/xml.js"
+    "url": "https://github.com/beat-yt/xml.js"
   },
   "author": "kripken",
   "contributors": [
     "kripken",
-    "sterpe"
+    "sterpe",
+    "beat-yt"
   ],
   "license": "MIT",
   "bugs": {

@@ -62,7 +62,8 @@ console.log('Testing with an empty string');
 
 var result = xmllint.validateXML({
 	schema: '',
-	xml: ''
+	xml: '',
+	format: "rng"
 });
 
 if (!result.errors) {
