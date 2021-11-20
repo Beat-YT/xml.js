@@ -17,7 +17,7 @@ libxml2's `xmllint` command for use in the browser or node.
 npm install Beat-YT/xml.js
 ```
 
-##### API #####
+## API
 
 ```javascript
 const xmllint = require('xmllint');
@@ -42,7 +42,7 @@ if (!result.errors) {
 
 Usable with Browserify via `browserify-shim`.
 
-#### Building xmllint from source ####
+## Building xmllint from source
 
 Install emscripten.
 
