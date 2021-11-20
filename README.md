@@ -14,7 +14,7 @@ libxml2's `xmllint` command for use in the browser or node.
 ## Installation:
 
 ```
-$ npm install Beat-YT/xml.js
+npm install Beat-YT/xml.js
 ```
 
 ##### API #####
