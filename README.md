@@ -1,4 +1,3 @@
-# xml.js
 This package is a fork of [kripken/xml.js](https://github.com/kripken/xml.js) that is compatible with NodeJS
 
 -----------------------------------------------------------------------------------
