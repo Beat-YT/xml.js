@@ -10,6 +10,13 @@ argument used will be ```--relaxng``` instead of ```--schema```. Otherwise
 This package exports the `xmllint` object which is an Emscripten port of
 libxml2's `xmllint` command for use in the browser or node.
 
+
+## Installation:
+
+```
+$ npm install Beat-YT/xml.js
+```
+
 ##### API #####
 
 ```javascript
